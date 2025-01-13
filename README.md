@@ -7,8 +7,12 @@
 <!-- 2. プロフィールや連絡先を変更 -->
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hi there
 
-- 🧑‍💻 I'm an engineer.
-- 🌱 I’m currently learning Next.js!
+As a Project Manager and Full Stack Engineer with over 20 years of experience in the IT industry, I offer solutions to various IT challenges for our clients, from web development to infrastructure setup and project management.
+
+Leveraging the deep technical knowledge and practical skills I've cultivated through years of experience, I understand the entire system development process. This enables me to propose optimal solutions with a bird' s-eye view of the entire project.
+
+Furthermore, utilizing my skills in web direction and project management, I support strategic IT utilization that is aligned with business goals, not just on the technical side.
+
 - 📫 How to reach me: [X - @zakkyweb1](https://x.com/zakkyweb1)
 <br>
 
