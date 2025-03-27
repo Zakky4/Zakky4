@@ -21,7 +21,7 @@ Furthermore, utilizing my skills in web direction and project management, I supp
 <!-- ライトモート：theme=light, ダークモート：theme=dark -->
 <!-- アイコンの選択肢一覧：https://arc.net/l/quote/zizyykfh -->
 ## 🌱 Skills
-<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=html,css,js,ts,react,next,remix,tailwind,python,flask,php,laravel,wordpress,docker,aws,vercel,supabase,linux,mysql,postgres,notion,figma" />
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=html,css,js,ts,react,next,astro,tailwind,python,flask,php,laravel,wordpress,docker,aws,vercel,supabase,linux,mysql,postgres,notion,figma" />
 <br>
 
 
